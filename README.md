@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YashKrV/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YashKrV/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/YashKrV/DSA/tree/master/0189-rotate-array) |
+| [0844-backspace-string-compare](https://github.com/YashKrV/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/YashKrV/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YashKrV/DSA/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/YashKrV/DSA/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/YashKrV/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/YashKrV/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/YashKrV/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/YashKrV/DSA/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashKrV/DSA/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/YashKrV/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/YashKrV/DSA/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
