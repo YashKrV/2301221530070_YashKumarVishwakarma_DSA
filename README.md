@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashKrV/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/YashKrV/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashKrV/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashKrV/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/YashKrV/DSA/tree/master/0053-maximum-subarray) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/YashKrV/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashKrV/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/YashKrV/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashKrV/DSA/tree/master/0088-merge-sorted-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/YashKrV/DSA/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/YashKrV/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
